@@ -144,7 +144,7 @@ grilli/
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/grilli.git
+git clone https://github.com/sudhanshu-j/grilli.git
 cd grilli
 ```
 
