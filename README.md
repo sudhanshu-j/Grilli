@@ -1,7 +1,6 @@
 # 🍽️ Grilli – Amazing & Delicious Food
 
-Welcome to **Grilli** — a beautifully designed, fully responsive restaurant website crafted to showcase delicious food and engage visitors with modern UI/UX.  
-Built with semantic HTML5, flexible CSS3, and interactive JavaScript, Grilli is perfect for restaurants, cafes, or food bloggers who want a visually appealing and smooth user experience.
+Welcome to **Grilli** — a beautifully designed, fully responsive restaurant website crafted to showcase delicious food and engage visitors with modern UI/UX. Built with semantic HTML5, flexible CSS3, and interactive JavaScript, Grilli is perfect for restaurants, cafes, or food bloggers who want a visually appealing and smooth user experience.
 
 ---
 
