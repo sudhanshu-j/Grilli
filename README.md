@@ -7,7 +7,7 @@ Welcome to **Grilli** — a beautifully designed, fully responsive restaurant we
 ## 📸 Live Preview
 
 Experience the site live here:  
-**Grilli Demo** (https://grilli-deliciousfood-restaurent.netlify.app/)
+[**Grilli Demo**](https://grilli-deliciousfood-restaurent.netlify.app/)
 
 ---
 
